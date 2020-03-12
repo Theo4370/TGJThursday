@@ -7,6 +7,10 @@ public class Restaurante {
 
 
 public void pagarSueldo() {
+    for (Empleado empleado: empleadosLista) {
+        //System.out.println("Al empleado );
+
+    }
 
     //todo codear
 }
