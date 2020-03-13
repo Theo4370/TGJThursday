@@ -15,4 +15,13 @@ public class EmpVajilla extends Empleado {
     public Integer getCantidadVajillaRota() {
         return cantidadVajillaRota;
     }
+
+    @Override
+    public void calcularSueldo() {
+        super.calcularSueldo();
+
+
+        
+    }
+}
 }

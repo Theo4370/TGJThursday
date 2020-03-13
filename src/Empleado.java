@@ -10,5 +10,8 @@ public abstract class Empleado {
         this.informacionPersonal = informacionPersonal;
         this.sueldo = sueldo;
     }
+    public void calcularSueldo(){
+
+    }
 
 }
