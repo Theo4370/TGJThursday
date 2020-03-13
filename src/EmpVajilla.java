@@ -19,9 +19,9 @@ public class EmpVajilla extends Empleado {
     @Override
     public void calcularSueldo() {
         super.calcularSueldo();
-
-
         
+
+
     }
 }
 }
