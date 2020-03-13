@@ -6,12 +6,19 @@ public class Restaurante {
 
 
 
-public void pagarSueldo() {
-    for (Empleado empleado: empleadosLista) {
-        //System.out.println("Al empleado );
-
+    public void agregarEmpleado(Empleado empleado){
+        empleadosLista.add(Empleado);
     }
 
-    //todo codear
+public void pagarSueldo() {
+    for (Empleado empleado: empleadosLista) {
+        if(empleadosLista.getClass() == EmpVajilla){
+
+
+        }
+
+
+
+    }
 }
 }
