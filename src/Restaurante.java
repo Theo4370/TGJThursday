@@ -6,16 +6,15 @@ public class Restaurante {
 
 
     public void agregarEmpleado(Empleado empleado) {
-        empleadosLista.add(Empleado);
+        empleadosLista.add(empleado);
     }
 
     public void pagarSueldo() {
         for (Empleado empleado : empleadosLista) {
-
-
+            empleado.calcularSueldo();
+            empleado.getInformacionPersonal();
         }
 
 
     }
-}
 }
