@@ -28,7 +28,7 @@ public class EmpVajilla extends Empleado {
     public void calcularSueldo() {
 
 
-        System.out.println("Cantidad de vajilla: "+getCantidadVajillaRota());
+        System.out.println("Cantidad de vajilla rota: "+getCantidadVajillaRota());
 
         System.out.println("La vajilla rota fue: " +getQueRompio());
         Integer nuevoSueldo;

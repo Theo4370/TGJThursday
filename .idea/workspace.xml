@@ -73,22 +73,22 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="830" y="426" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1584124155475" />
-    <state width="1877" height="281" key="GridCell.Tab.0.bottom" timestamp="1584138877150">
+    <state width="1877" height="281" key="GridCell.Tab.0.bottom" timestamp="1584139109505">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="281" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1584138877150" />
-    <state width="1877" height="281" key="GridCell.Tab.0.center" timestamp="1584138877150">
+    <state width="1877" height="281" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1584139109505" />
+    <state width="1877" height="281" key="GridCell.Tab.0.center" timestamp="1584139109505">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="281" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1584138877150" />
-    <state width="1877" height="281" key="GridCell.Tab.0.left" timestamp="1584138877150">
+    <state width="1877" height="281" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1584139109505" />
+    <state width="1877" height="281" key="GridCell.Tab.0.left" timestamp="1584139109505">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="281" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1584138877150" />
-    <state width="1877" height="281" key="GridCell.Tab.0.right" timestamp="1584138877150">
+    <state width="1877" height="281" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1584139109505" />
+    <state width="1877" height="281" key="GridCell.Tab.0.right" timestamp="1584139109505">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="281" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1584138877150" />
+    <state width="1877" height="281" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1584139109505" />
     <state width="1877" height="347" key="GridCell.Tab.1.bottom" timestamp="1584138718390">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -113,57 +113,5 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="678" y="361" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1584124148149" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-method">
-          <url>file://$PROJECT_DIR$/src/EmpVajilla.java</url>
-          <line>12</line>
-          <properties class="EmpVajilla" method="getQueRompio">
-            <option name="EMULATED" value="true" />
-          </properties>
-          <option name="timeStamp" value="13" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-method">
-          <url>file://$PROJECT_DIR$/src/EmpVajilla.java</url>
-          <line>17</line>
-          <properties class="EmpVajilla" method="getCantidadVajillaRota">
-            <option name="EMULATED" value="true" />
-          </properties>
-          <option name="timeStamp" value="15" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/EmpVajilla.java</url>
-          <line>13</line>
-          <option name="timeStamp" value="14" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/EmpVajilla.java</url>
-          <line>18</line>
-          <option name="timeStamp" value="16" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/EmpVajilla.java</url>
-          <line>19</line>
-          <option name="timeStamp" value="17" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/EmpVajilla.java</url>
-          <line>22</line>
-          <option name="timeStamp" value="18" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/EmpVajilla.java</url>
-          <line>20</line>
-          <option name="timeStamp" value="19" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/EmpVajilla.java</url>
-          <line>6</line>
-          <option name="timeStamp" value="20" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
   </component>
 </project>
