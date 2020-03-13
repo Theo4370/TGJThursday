@@ -18,7 +18,7 @@ public abstract class Empleado {
     }
 
     public void decirInfoPersonal() {
-        System.out.printf("Mi informacion personal es: " + getInformacionPersonal());
+        System.out.println("Su informacion personal es: " + getInformacionPersonal());
     }
 
     public void calcularSueldo() {

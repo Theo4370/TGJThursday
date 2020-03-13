@@ -7,6 +7,6 @@ public class EmpleadoGeneral extends Empleado{
 
     @Override
     public void calcularSueldo() {
-        System.out.printf("Su sueldo es:" +getSueldo());
+        System.out.println("Su sueldo es: " +getSueldo());
     }
 }
